@@ -1,0 +1,13 @@
+marshmallow
+redis
+rx
+wheel
+orjson
+apscheduler
+s3fs
+moviepy
+python-nubia
+ffmpeg-python
+pillow
+katna
+google-cloud-texttospeech

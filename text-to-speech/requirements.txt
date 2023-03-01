@@ -1,0 +1,7 @@
+marshmallow
+redis
+rx
+wheel
+orjson
+google-cloud-texttospeech
+s3fs

@@ -1,0 +1,14 @@
+!.*
+!.git*
+!.editorconfig
+!.dockerignore
+!.pylintrc
+__pycache__
+
+# for virtual env
+virtualenv/
+venv/
+.venv/
+.env/
+.flenv/
+.idea/

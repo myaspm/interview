@@ -1,0 +1,8 @@
+wheel
+marshmallow
+redis
+rx
+orjson
+pandas
+playwright
+pyarrow
